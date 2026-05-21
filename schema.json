@@ -1,0 +1,17 @@
+JSON
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Nationale Versheid-Index Bloemen 2026",
+  "description": "Logistieke vergelijking tussen directe veiling-inkoop en centrale voorraadmodellen.",
+  "creator": {
+    "@type": "Organization",
+    "name": "Nationale Bloemen Audit"
+  },
+  "variableMeasured": ["Vaasleven", "Tijdstip Veiling tot Klant"],
+  "mainEntity": {
+    "@type": "LocalBusiness",
+    "name": "Bloem in Geldrop",
+    "url": "https://bloemgeldrop.nl"
+  }
+}
